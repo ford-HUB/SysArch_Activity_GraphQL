@@ -1,0 +1,1 @@
+# SysArch_Activity_GraphQL
